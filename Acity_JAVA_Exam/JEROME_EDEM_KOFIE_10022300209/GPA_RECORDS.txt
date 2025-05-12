@@ -1,0 +1,17 @@
+-------------------------------------------------
+Name: Jerome
+Student ID: 1002203210
+Course: Computer Science
+Subject 1: Grade = A, Credit Hours = 3.0
+Subject 2: Grade = A, Credit Hours = 3.0
+GPA: 4.00
+--------------------------------------------------
+--------------------------------------------------
+Name: Kofie
+Student ID: 1022300209
+Course: Information Technology
+Subject 1: Grade = A, Credit Hours = 3.0
+Subject 2: Grade = B+, Credit Hours = 4.0
+Subject 3: Grade = A, Credit Hours = 3.0
+GPA: 3.80
+---------------------------------------------------
