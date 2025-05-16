@@ -1,0 +1,60 @@
+Name: charles
+ID: 118214
+Course: Java | Grade: 70 | Credit: 3
+Course: CSS | Grade: 85 | Credit: 3
+Course: Python | Grade: 95 | Credit: 3
+GPA: 0.0
+--------------------------------------
+Name: charles
+ID: 118214
+Course: Java | Grade: 90 | Credit: 3
+Course: CSS | Grade: 90 | Credit: 3
+Course: Python | Grade: 90 | Credit: 3
+GPA: 0.0
+--------------------------------------
+Name: alex
+ID: 118214
+Course: Java | Grade: 90 | Credit: 3
+Course: CSS | Grade: 90 | Credit: 3
+Course: Python | Grade: 90 | Credit: 3
+GPA: 0.0
+--------------------------------------
+Name: alex
+ID: 118214
+Course: Java | Grade: 90 | Credit: 3
+Course: CSS | Grade: 90 | Credit: 3
+Course: Python | Grade: 90 | Credit: 3
+GPA: 0.0
+--------------------------------------
+Name: Frank
+ID: 111
+Course: Java | Grade: 89 | Credit: 3
+Course: Css | Grade: 65 | Credit: 2
+Course: Html | Grade: 83 | Credit: 3
+GPA: 0.0
+--------------------------------------
+Name: Frank
+ID: 1001112223
+Course: IT | Grade: A | Credit: 3
+Course: French | Grade: B+ | Credit: 3
+Course: CSS | Grade: C | Credit: 3
+Course: HTML | Grade: C+ | Credit: 3
+Course: JAVA | Grade: A | Credit: 3
+GPA: 3.20
+--------------------------------------------------
+Student Name: Baddest Kelvin
+Student ID: 2222666
+Course: IT | Grade: A | Credit Hours: 3
+Course: Java | Grade: B+ | Credit Hours: 3
+Course: Css | Grade: A | Credit Hours: 3
+Course: Python | Grade: A | Credit Hours: 3
+Calculated GPA: 3.50
+----------------------------------------
+Student Name: Baddest Kelvin
+Student ID: 2222666
+Course: IT | Grade: A | Credit Hours: 3
+Course: Java | Grade: B+ | Credit Hours: 3
+Course: Css | Grade: A | Credit Hours: 3
+Course: Python | Grade: A | Credit Hours: 3
+Calculated GPA: 3.50
+----------------------------------------

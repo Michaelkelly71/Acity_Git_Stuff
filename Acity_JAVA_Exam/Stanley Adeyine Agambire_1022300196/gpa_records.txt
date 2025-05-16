@@ -1,0 +1,188 @@
+STUDENT RECORD
+Name: Stanley Adeyine Agambire
+ID: 196
+
+COURSES:
+- discrete maths: A (5.0 credits)
+- probability: A (7.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 05:08:38 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley Adeyine Agambire
+ID: 196
+
+COURSES:
+- science: F (40.0 credits)
+
+GPA: 0.00
+----------------------------------------
+Saved on: Wed Apr 30 05:10:18 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley Adeyine Agambire
+ID: 196
+
+COURSES:
+- it: A (4.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 06:47:33 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley Adeyine Agambire
+ID: 196
+
+COURSES:
+- programming with Java: B (3.0 credits)
+
+GPA: 3.00
+----------------------------------------
+Saved on: Wed Apr 30 07:04:16 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley
+ID: 198
+
+COURSES:
+- introduction to Engineering: A (3.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 07:08:08 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley Agambire
+ID: 10022300196
+
+COURSES:
+- engineering: B (3.0 credits)
+
+GPA: 3.00
+----------------------------------------
+Saved on: Wed Apr 30 07:12:13 GMT 2025
+========================================
+
+STUDENT RECORD
+Name: Stanley Aadeyine Agambire
+ID: 1022300196
+
+COURSES:
+- engineering: A (3.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 07:14:49 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley Aadeyine Agambire
+ID: 1022300196
+
+COURSES:
+- engineering: B (3.0 credits)
+
+GPA: 3.00
+----------------------------------------
+Saved on: Wed Apr 30 07:15:01 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley
+ID: 196
+
+COURSES:
+- dsjhv'jdshv: B (3.0 credits)
+
+GPA: 3.00
+----------------------------------------
+Saved on: Wed Apr 30 07:17:13 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley
+ID: 196
+
+COURSES:
+- dsjhv'jdshv: D (3.0 credits)
+
+GPA: 1.50
+----------------------------------------
+Saved on: Wed Apr 30 07:17:33 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley
+ID: 196
+
+COURSES:
+- dsjhv'jdshv: B+ (3.0 credits)
+
+GPA: 3.50
+----------------------------------------
+Saved on: Wed Apr 30 07:17:42 GMT 2025
+========================================
+STUDENT RECORD
+Name: Stanley
+ID: 196
+
+COURSES:
+- dsjhv'jdshv: A (3.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 07:17:58 GMT 2025
+========================================
+STUDENT RECORD
+Name: kbjkjdvd
+ID: 123
+
+COURSES:
+- jhcfjdhc: A (3.0 credits)
+
+GPA: 4.00
+----------------------------------------
+Saved on: Wed Apr 30 07:24:12 GMT 2025
+========================================
+STUDENT RECORD
+Name: shbcfjd
+ID: 345
+
+COURSES:
+- ejfjefjekf: B (3.0 credits)
+
+GPA: 3.00
+----------------------------------------
+Saved on: Wed Apr 30 07:27:33 GMT 2025
+========================================
+=== STUDENT GPA SUMMARY ===
+Name: Stanley Agambire
+ID: 10022300196
+
+COURSES:
+- introduction To Engineering: Grade C+, 4.0 Credits
+
+CALCULATED GPA: 2.50
+Saved On: Wed Apr 30 10:12:37 GMT 2025
+========================================
+=== STUDENT GPA SUMMARY ===
+Name: Leila
+ID: 123
+
+COURSES:
+- FIE: Grade A, 5.0 Credits
+- Java: Grade A, 5.0 Credits
+
+CALCULATED GPA: 4.00
+Saved On: Wed Apr 30 10:18:49 GMT 2025
+========================================
+=== STUDENT GPA SUMMARY ===
+Name: Leila
+ID: 123
+
+COURSES:
+- FIE: Grade A, 5.0 Credits
+- Java: Grade A, 5.0 Credits
+
+CALCULATED GPA: 4.00
+Saved On: Wed Apr 30 10:19:56 GMT 2025
+========================================

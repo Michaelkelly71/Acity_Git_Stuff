@@ -1,0 +1,3 @@
+cd src
+javac -cp ".;../lib/sqlite-jdbc-3.42.0.0.jar" *.java
+java -cp ".;../lib/sqlite-jdbc-3.42.0.0.jar" ContactManager

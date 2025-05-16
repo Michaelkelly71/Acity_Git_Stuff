@@ -11,20 +11,20 @@ using namespace std;
 
 class RentalSystem {
 private:
-    static const int MAX_VEHICLES = 100; // Maximum number of vehicles
-    static const int MAX_RENTALS = 100;  // Maximum number of rentals
+    static const int MAX_VEHICLES = 100;
+    static const int MAX_RENTALS = 100;  
 
-    Vehicle vehicles[MAX_VEHICLES]; // Fixed-size array for vehicles
-    Rental rentals[MAX_RENTALS];   // Fixed-size array for rentals
+    Vehicle vehicles[MAX_VEHICLES]; 
+    Rental rentals[MAX_RENTALS];   
 
-    int vehicleCount;              // Tracks the number of vehicles
-    int rentalCount;               // Tracks the number of rentals
+    int vehicleCount;              
+    int rentalCount;               
 
     const string vehicleFile = "vehicles.txt";
     const string rentalFile = "rentals.txt";
 
 public:
-    // Constructor to initialize counters
+    
     RentalSystem() : vehicleCount(0), rentalCount(0) {}
 
     // Load data from files
@@ -48,7 +48,7 @@ public:
         }
     }
 
-    // Save data to files
+    
     void saveToFile() {
         ofstream outVehicle(vehicleFile);
         if (outVehicle.is_open()) {
@@ -67,7 +67,7 @@ public:
         }
     }
 
-    // Add a new vehicle
+    
     void addVehicle() {
         if (vehicleCount >= MAX_VEHICLES) {
             cout << "Error: Maximum vehicle limit reached." << endl;
@@ -121,7 +121,7 @@ public:
         cout << "Error: Vehicle ID not found!" << endl;
     }
 
-    // Display all vehicles
+    
     void displayVehicles() {
         if (vehicleCount == 0) {
             cout << "No vehicles available in the system." << endl;
@@ -133,7 +133,7 @@ public:
         }
     }
 
-    // Display all rentals
+    
     void displayRentals() {
         if (rentalCount == 0) {
             cout << "No rental records available." << endl;

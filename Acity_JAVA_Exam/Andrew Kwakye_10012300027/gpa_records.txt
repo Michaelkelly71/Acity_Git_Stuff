@@ -1,0 +1,10 @@
+Name: Andrew, ID: 22, Courses: 4, Credit Hours: 3, Grades: A, GPA: 4.0
+Name: Andrew Kwakye, ID: 22, Courses: Math,French,Spanish, Credit Hours: 3,4,3, Grades: A,B,C, GPA: 3.0
+Name: Michael Kelly , ID: 66, Courses: C++,Java,Python, Credit Hours: 3,3,3, Grades: A,D+,C, GPA: 1.3333333333333333
+Name: Michael Kelly , ID: 66, Courses: C++,Java,Python, Credit Hours: 3,3,3, Grades: A,D+,C, GPA: 1.3333333333333333
+Name: Michael Kelly , ID: 55, Courses: C++,Python,Java, Credit Hours: 2,3,2, Grades: B+,C+,A, GPA: 3.2142857142857144
+Name: Joshua, ID: 77, Courses: Math,French,Spanish, Credit Hours: 3,3,2, Grades: A,B,C, GPA: 3.125
+Name: Joshua, ID: 77, Courses: Math,French,Spanish, Credit Hours: 3,3,2, Grades: A,B,C, GPA: 3.125
+Name: Kelvin, ID: 79, Courses: Math,French,Spanish, Credit Hours: 3,3,3, Grades: A,B,C, GPA: 3.0
+Name: Kelvin, ID: 79, Courses: Math,French,JAVA, Credit Hours: 3,3,3, Grades: A,B,C, GPA: 3.0
+Name: Kelvin, ID: 79, Courses: Math,French,JAVA, Credit Hours: 1,3,2, Grades: A,C, GPA: 0.0

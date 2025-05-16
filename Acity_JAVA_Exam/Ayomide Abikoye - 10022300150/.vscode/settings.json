@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "lib/mariadb-java-client-3.5.2.jar",
+        "lib/jbcrypt-0.4.jar"
+    ]
+}

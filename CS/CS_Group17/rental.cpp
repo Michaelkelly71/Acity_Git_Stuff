@@ -15,14 +15,14 @@ public:
     Rental(string customerName = "", string vehicleId = "", time_t startDate = 0)
         : customerName(customerName), vehicleId(vehicleId), startDate(startDate) {}
 
-    // Save rental to file
+    
     void saveToFile(ofstream &outFile) {
         if (outFile.is_open()) {
             outFile << customerName << "," << vehicleId << "," << startDate << endl;
         }
     }
 
-    // Load rental from file
+    
     static Rental loadFromFile(ifstream &inFile) {
         string customerName, vehicleId;
         time_t startDate;
@@ -37,7 +37,7 @@ public:
         return Rental();
     }
 
-    // Display rental details
+    
     void display() {
         cout << "Customer: " << customerName << ", Vehicle ID: " << vehicleId
              << ", Start Date: " << ctime(&startDate);

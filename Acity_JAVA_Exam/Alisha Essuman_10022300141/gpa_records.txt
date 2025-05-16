@@ -1,0 +1,16 @@
+Student Name: lee
+Student ID: 1000333
+GPA: 4.00
+
+Student Name: lee
+Student ID: 10022233
+GPA: 4.00
+
+Student Name: lee
+Student ID: 10022300141
+GPA: 3.40
+
+Student Name: matthew
+Student ID: 10022300138
+GPA: 2.50
+

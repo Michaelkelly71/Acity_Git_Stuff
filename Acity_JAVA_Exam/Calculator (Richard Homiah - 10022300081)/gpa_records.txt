@@ -1,0 +1,4 @@
+Name: Richard, ID: 10022300081, GPA: 0.0
+Name: Richard, ID: 10022300081, GPA: 2.142857142857143
+Name: , ID: , GPA: 0.0
+Name: h, ID: , GPA: 0.0

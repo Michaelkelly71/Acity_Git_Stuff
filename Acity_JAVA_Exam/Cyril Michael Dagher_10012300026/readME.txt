@@ -12,6 +12,9 @@ GPA = sum(grade points * credit hours) / sum(credit hours)
 
 
 
+
+NB : THE FILE TO RUN WHICH IS STYLED GUI IS "CalculatorStyleGPA.java"
+
 - The gui i drew on my question paper to give me an idea on how i want it to look like , the user should input the course, credit hours etc in the jbox below
 
 - the buttons dont look sexy at all but i dont also want to go and look at other designs to do it , lemme do it mysef
@@ -33,5 +36,9 @@ GPA = sum(grade points * credit hours) / sum(credit hours)
     totalPoints += grades.get(i) * credits.get(i); // no way , has this ever been done before, lemme try it 
     wait shouldnt it be , when expanded 
     totalPoints = totalPoints + (grades.get(i) * credits.get(i)) // im saying this because the fomula, for the first part, is sum(gradepoints * credit hours) 
+
+
+
+
 
 

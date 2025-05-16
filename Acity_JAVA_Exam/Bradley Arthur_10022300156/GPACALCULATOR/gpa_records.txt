@@ -1,0 +1,36 @@
+Name: Jeremy
+ID: 10022300156
+Course: COMPUTER SCIENCE
+Subject 1: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+Subject 2: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+GPA: 4.00
+***********************************************
+Name: Jeremy Bradley Aryee Arthur
+ID: 10022300156
+Course: COMPUTER SCIENCE
+Subject 1: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+Subject 2: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+Subject 3: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+GPA: 4.00
+*******************************************************************
+Name: sdfg
+ID: 2345fghj
+Course: INFORMATION TECHNOLOGY
+Subject 1: Grade = A, Grade Point = 4.0, Credit Hours = 2.0
+GPA: 4.00
+*******************************************************************
+Name: xcv
+ID: 123
+Course: Marketing
+Subject 1: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+GPA: 4.00
+*******************************************************************
+Name: DFGHJK
+ID: 23456789
+Course: Artificial Intellegence
+Subject 1: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+Subject 2: Grade = B, Grade Point = 3.0, Credit Hours = 2.0
+Subject 3: Grade = C, Grade Point = 2.0, Credit Hours = 2.0
+Subject 4: Grade = A, Grade Point = 4.0, Credit Hours = 3.0
+GPA: 3.40
+*******************************************************************

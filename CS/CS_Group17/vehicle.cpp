@@ -15,14 +15,14 @@ public:
     Vehicle(string id = "", string brand = "", string model = "", double rate = 0.0, bool isRented = false)
         : id(id), brand(brand), model(model), rate(rate), isRented(isRented) {}
 
-    // Save vehicle to file
+    
     void saveToFile(ofstream &outFile) {
         if (outFile.is_open()) {
             outFile << id << "," << brand << "," << model << "," << rate << "," << isRented << endl;
         }
     }
 
-    // Load vehicle from file
+    
     static Vehicle loadFromFile(ifstream &inFile) {
         string id, brand, model;
         double rate;
@@ -38,14 +38,14 @@ public:
         return Vehicle();
     }
 
-    // Display vehicle details
+    
     void display() {
         cout << "ID: " << id << ", Brand: " << brand << ", Model: " << model
              << ", Rate: $" << fixed << setprecision(2) << rate << "/day"
              << (isRented ? " [RENTED]" : "") << endl;
     }
 
-    // Getters and setters
+    
     string getId() { return id; }
     bool getIsRented() { return isRented; }
     void setIsRented(bool rented) { isRented = rented; }

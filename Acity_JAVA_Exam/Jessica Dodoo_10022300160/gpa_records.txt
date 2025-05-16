@@ -1,0 +1,5 @@
+Name: he
+ID: 100518
+Courses: [grou2]
+GPA: 4.00
+
